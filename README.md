@@ -8,6 +8,3 @@ Passionate developers from India
 
 👯 We are looking to collaborate on AI and ML
 
-💬 Ask us about Java, Python, AIML, Html, CSS, Git.
-
-⚡ Fun fact Coding is hard as ice, but rewards are nice.
